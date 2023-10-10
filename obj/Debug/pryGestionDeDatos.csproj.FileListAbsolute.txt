@@ -1,0 +1,89 @@
+E:\Escritorio\pryGestionDeDatos\bin\Debug\pryGestionDeDatos.exe.config
+E:\Escritorio\pryGestionDeDatos\bin\Debug\pryGestionDeDatos.exe
+E:\Escritorio\pryGestionDeDatos\bin\Debug\pryGestionDeDatos.pdb
+E:\Escritorio\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.csproj.AssemblyReference.cache
+E:\Escritorio\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.csproj.SuggestedBindingRedirects.cache
+E:\Escritorio\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmCargarCliente.resources
+E:\Escritorio\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmMenuPrincipal.resources
+E:\Escritorio\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.Properties.Resources.resources
+E:\Escritorio\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.csproj.GenerateResource.cache
+E:\Escritorio\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.csproj.CoreCompileInputs.cache
+E:\Escritorio\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.exe
+E:\Escritorio\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.pdb
+E:\Escritorio\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmBuscarCliente.resources
+E:\Laboratorio Prog Log\pryGestionDeDatos\bin\Debug\pryGestionDeDatos.exe.config
+E:\Laboratorio Prog Log\pryGestionDeDatos\bin\Debug\pryGestionDeDatos.exe
+E:\Laboratorio Prog Log\pryGestionDeDatos\bin\Debug\pryGestionDeDatos.pdb
+E:\Laboratorio Prog Log\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.csproj.AssemblyReference.cache
+E:\Laboratorio Prog Log\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.csproj.SuggestedBindingRedirects.cache
+E:\Laboratorio Prog Log\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmBuscarCliente.resources
+E:\Laboratorio Prog Log\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmCargarCliente.resources
+E:\Laboratorio Prog Log\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmMenuPrincipal.resources
+E:\Laboratorio Prog Log\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.Properties.Resources.resources
+E:\Laboratorio Prog Log\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.csproj.GenerateResource.cache
+E:\Laboratorio Prog Log\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.csproj.CoreCompileInputs.cache
+E:\Laboratorio Prog Log\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.exe
+E:\Laboratorio Prog Log\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.pdb
+E:\Laboratorio Prog Log\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmMostrarClliente.resources
+E:\Escritorio\pryGestionDeDatos\bin\Debug\Newtonsoft.Json.dll
+E:\Escritorio\pryGestionDeDatos\bin\Debug\Newtonsoft.Json.xml
+E:\Escritorio\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmMostrarClliente.resources
+E:\Escritorio\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.csproj.CopyComplete
+E:\Escritorio\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmCargarEmpleado.resources
+D:\pryGestionDeDatos\bin\Debug\pryGestionDeDatos.exe.config
+D:\pryGestionDeDatos\bin\Debug\pryGestionDeDatos.exe
+D:\pryGestionDeDatos\bin\Debug\pryGestionDeDatos.pdb
+D:\pryGestionDeDatos\bin\Debug\Newtonsoft.Json.dll
+D:\pryGestionDeDatos\bin\Debug\Newtonsoft.Json.xml
+D:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.csproj.AssemblyReference.cache
+D:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.csproj.SuggestedBindingRedirects.cache
+D:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmCargarEmpleado.resources
+D:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmBuscarCliente.resources
+D:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmCargarCliente.resources
+D:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmMenuPrincipal.resources
+D:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmMostrarClliente.resources
+D:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.Properties.Resources.resources
+D:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.csproj.GenerateResource.cache
+D:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.csproj.CoreCompileInputs.cache
+D:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.csproj.CopyComplete
+D:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.exe
+D:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.pdb
+E:\pryGestionDeDatos\bin\Debug\pryGestionDeDatos.exe.config
+E:\pryGestionDeDatos\bin\Debug\pryGestionDeDatos.exe
+E:\pryGestionDeDatos\bin\Debug\pryGestionDeDatos.pdb
+E:\pryGestionDeDatos\bin\Debug\Newtonsoft.Json.dll
+E:\pryGestionDeDatos\bin\Debug\Newtonsoft.Json.xml
+E:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.csproj.AssemblyReference.cache
+E:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.csproj.SuggestedBindingRedirects.cache
+E:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmCargarEmpleado.resources
+E:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmBuscarCliente.resources
+E:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmCargarCliente.resources
+E:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmMenuPrincipal.resources
+E:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmMostrarClliente.resources
+E:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.Properties.Resources.resources
+E:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.csproj.GenerateResource.cache
+E:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.csproj.CoreCompileInputs.cache
+E:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.csproj.CopyComplete
+E:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.exe
+E:\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.pdb
+C:\Users\lujis\Desktop\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.csproj.AssemblyReference.cache
+C:\Users\lujis\Desktop\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmCargarEmpleado.resources
+C:\Users\lujis\Desktop\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmBuscarCliente.resources
+C:\Users\lujis\Desktop\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmCargarCliente.resources
+C:\Users\lujis\Desktop\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmMenuPrincipal.resources
+C:\Users\lujis\Desktop\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.Properties.Resources.resources
+C:\Users\lujis\Desktop\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.csproj.GenerateResource.cache
+C:\Users\lujis\Desktop\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\lujis\Desktop\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.exe
+C:\Users\lujis\Desktop\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.pdb
+C:\Users\lujis\Desktop\pryGestionDeDatos\bin\Debug\pryGestionDeDatos.exe.config
+C:\Users\lujis\Desktop\pryGestionDeDatos\bin\Debug\pryGestionDeDatos.exe
+C:\Users\lujis\Desktop\pryGestionDeDatos\bin\Debug\pryGestionDeDatos.pdb
+C:\Users\lujis\Desktop\pryGestionDeDatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lujis\Desktop\pryGestionDeDatos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lujis\Desktop\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.csproj.CopyComplete
+C:\Users\lujis\Desktop\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmBuscarEmpleado.resources
+C:\Users\lujis\Desktop\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmMostrarCliente.resources
+C:\Users\lujis\Desktop\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmMostrarEmpleado.resources
+C:\Users\lujis\Desktop\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmCargarVentas.resources
+C:\Users\lujis\Desktop\pryGestionDeDatos\obj\Debug\pryGestionDeDatos.frmMostrarVentas.resources

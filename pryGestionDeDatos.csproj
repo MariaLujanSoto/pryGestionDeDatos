@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A98E1C3F-3CA2-4CA5-B198-7F9E3399FEFA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>pryGestionDeDatos</RootNamespace>
+    <AssemblyName>pryGestionDeDatos</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmBuscarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarEmpleado.Designer.cs">
+      <DependentUpon>frmBuscarEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCargarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCargarEmpleado.Designer.cs">
+      <DependentUpon>frmCargarEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCargarVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCargarVentas.Designer.cs">
+      <DependentUpon>frmCargarVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMostrarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMostrarCliente.Designer.cs">
+      <DependentUpon>frmMostrarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarCliente.Designer.cs">
+      <DependentUpon>frmBuscarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCargarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCargarCliente.Designer.cs">
+      <DependentUpon>frmCargarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenuPrincipal.Designer.cs">
+      <DependentUpon>frmMenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMostrarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMostrarEmpleado.Designer.cs">
+      <DependentUpon>frmMostrarEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMostrarVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMostrarVentas.Designer.cs">
+      <DependentUpon>frmMostrarVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmBuscarEmpleado.resx">
+      <DependentUpon>frmBuscarEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCargarEmpleado.resx">
+      <DependentUpon>frmCargarEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarCliente.resx">
+      <DependentUpon>frmBuscarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCargarCliente.resx">
+      <DependentUpon>frmCargarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCargarVentas.resx">
+      <DependentUpon>frmCargarVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenuPrincipal.resx">
+      <DependentUpon>frmMenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMostrarCliente.resx">
+      <DependentUpon>frmMostrarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMostrarEmpleado.resx">
+      <DependentUpon>frmMostrarEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMostrarVentas.resx">
+      <DependentUpon>frmMostrarVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondopg2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1186803754-170667a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Givenchy_Le_Pinceau_pinceles_de_maquillaje_profesional_p.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d0b4fb19c62725553eb0b7bfea98fe6c.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Givenchy_Le_Pinceau_pinceles_de_maquillaje_profesional_p1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1212444597-170667a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock-photo-top-view-cosmetic-brushes-face.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-515399367-170667a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Download premium psd _ image of Female hand on a frame mobile phone wallpaper by McKinsey  about beauty, beauty woman, instagram poster template, frame, and template story instagram 1219061.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c4f07450-bea2-40aa-9db9-91ce9895059d.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tela inicial.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %283%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tela inicial1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rain___.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Все для сторис и дизайна.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Все для сторис и дизайна1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %285%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondos de Pantalla Verdes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\daisys are white sunflower are yellow but roses can be any color.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %286%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %287%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %286%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bloom Plum Wallpaper.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %287%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\28 ocasiones en las que vale la pena mirar al suelo - pisosblog - pisos_com.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\daisys are white sunflower are yellow but roses can be any color1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
